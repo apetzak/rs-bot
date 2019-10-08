@@ -1,0 +1,13 @@
+D:\Projects\Bot\Bot\obj\Debug\Bot.csprojAssemblyReference.cache
+D:\Projects\Bot\Bot\obj\Debug\Bot.Properties.Resources.resources
+D:\Projects\Bot\Bot\obj\Debug\Bot.csproj.GenerateResource.cache
+D:\Projects\Bot\Bot\obj\Debug\Bot.csproj.CoreCompileInputs.cache
+D:\Projects\Bot\Bot\obj\Debug\Bot.frmMain.resources
+D:\Projects\Bot\Bot\bin\Debug\Bot.exe.config
+D:\Projects\Bot\Bot\bin\Debug\Bot.exe
+D:\Projects\Bot\Bot\bin\Debug\Bot.pdb
+D:\Projects\Bot\Bot\bin\Debug\WindowsInput.dll
+D:\Projects\Bot\Bot\bin\Debug\WindowsInput.xml
+D:\Projects\Bot\Bot\obj\Debug\Bot.csproj.CopyComplete
+D:\Projects\Bot\Bot\obj\Debug\Bot.exe
+D:\Projects\Bot\Bot\obj\Debug\Bot.pdb
